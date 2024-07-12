@@ -1,4 +1,4 @@
-const url = 'http://localhost:3000/staff';
+const url = 'https://starter-backend-navy.vercel.app/staff';
 
 // UTILITY FUNCTIONS
 
